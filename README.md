@@ -14,9 +14,9 @@ ama aslında "selection sort" olan algoritma ödevi:
 6. [2, 6, 15, 18, 22, 27]
 
 
-Worst Case: O(n^2)	 (İç içe 2 loop olduğundan dolayı quadratic time complexity)
-Average Case : θ(n^2) 
-Best Case : Ω(n^2) 
+* Worst Case: O(n^2)	 (İç içe 2 loop olduğundan dolayı quadratic time complexity)
+* Average Case : θ(n^2) 
+* Best Case : Ω(n^2) 
 
 18 = average case
 
